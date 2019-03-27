@@ -55,3 +55,7 @@ git add admin/
 Get files from server
 ====================================================================
 git pull origin developer
+
+
+git config --global core.compression 0
+git config --global core.compression -1
